@@ -1,5 +1,3 @@
 # lab-02-
 Laboratory work on Git and GitHub
-This is a sample text file for Laboratory Work 2.
-It is used to demonstrate a clear project structure and meaningful file names.
-The data in this file is fictional and contains no personal information.
+Add sample text data
