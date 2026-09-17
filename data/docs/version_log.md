@@ -14,7 +14,7 @@
 - Checked that the project structure is understandable.
 - Confirmed that no personal data, passwords, tokens, or secret keys are included.
 - Prepared the repository for peer review.
-## Версия 1.1 — Metadata и peer review
+## Version 1.1 — Metadata and peer review
 - Добавлен файл `data/metadata.tsv` с описанием материалов проекта.
 - Выполнена проверка относительных путей к notebook и документам.
 - Проведён peer review структуры и README.
